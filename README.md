@@ -1,8 +1,7 @@
-👋 I’m @PostgreSqlStan
-
-👀 I’m interested in data wrangling (ETL) with Postgres on \*nix platforms
-
-🌱 Learning as much as possible
+👋 I’m @PostgreSqlStan, a command line interface enthusiast who loves using postgres on macOS.
+👀 I’m very interested in data wrangling (ETL) with postgres and other command line tools.
+✅ I've been using postgres, on and off, for about two decades, but…
+🌱 I still have a lot to learn.
 
 
 <!---
