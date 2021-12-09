@@ -1,6 +1,8 @@
-- 👋 I’m @PostgreSqlStan
-- 👀 I’m interested in data wrangling (ETL) with Postgres on \*nix platforms
-- 🌱 Learning as much as possible
+👋 I’m @PostgreSqlStan
+
+👀 I’m interested in data wrangling (ETL) with Postgres on \*nix platforms
+
+🌱 Learning as much as possible
 
 
 <!---
