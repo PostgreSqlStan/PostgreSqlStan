@@ -1,6 +1,6 @@
-👋 I’m a command line interface enthusiast who loves using postgres on macOS.
+👋 I’m a command line enthusiast who loves using postgres on macOS.
 
-👀 I’m very interested in data wrangling (ETL) with postgres, python and other \*nix tools.
+👀 I’m interested in data wrangling (ETL) with postgres, python and other \*nix tools.
 
 ✅ I've been using postgres for occasional data wrangling tasks for about two decades.
 
