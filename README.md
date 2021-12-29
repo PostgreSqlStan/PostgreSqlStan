@@ -1,10 +1,10 @@
-👋 I’m a command line enthusiast who loves using postgres on macOS.
+👋 I’m a command line enthusiast.
 
 👀 I’m interested in data wrangling (ETL) with postgres, python and other \*nix tools.
 
 ✅ I've been using postgres for occasional data wrangling tasks for about two decades.
 
-🌱 I still have so much to learn. (That's why I enjoy it.)
+🌱 I still have much to learn. (That's why I enjoy it.)
 
 – @PostgreSqlStan
 
