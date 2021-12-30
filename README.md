@@ -1,15 +1,20 @@
 <!---✨ PostgreSqlStan GitHub profile ✨--->
 
-👋 Hi. I'm a longtime Mac user and command line aficiando.
+# 👋 Hi
 
-🔧 I use command line software, like PostgreSQL and Python, to manipulate and manage data.
+💻 I'm a longtime Mac user and command line aficiando 
 
-🔧 I use [GitHub Pages](https://pages.github.com) keep notes about the software I use and publish them on a [website](https://postgresqlstan.github.io), making them easily accesible to me (and the rest of the world).
+😮 I started programming with an Apple ][e in the early 1980s.
 
-🗣 One of the advantages of storing notes in a GitHub repository is its use of [Markdown](https://www.markdownguide.org) to convert plain text into formatted web pages like this one. (You can see the boring, unprocessed, plain text source for this page [here](https://raw.githubusercontent.com/PostgreSqlStan/PostgreSqlStan/main/README.md).) Markdown has become my preferred format for most documents.
+🔧 I wrangle data with basic Unix commands, shell scripts, PostgreSQL, Python, and other open source software.
 
-👀 You're not really interested in my hobbies or personal life, are you?
+✏️ I use git and [GitHub Pages](https://pages.github.com) to keep and share notes about the software I use.
 
-🔖 I enjoy writing about technology and inevitably learn a lot in the process.
+❤️ I enjoy writing about technology and inevitably learn a lot in the process.
+
+☕️ You're not really interested in my hobbies or personal life, are you?
+
+🔖 "So it goes."
 
 — *PostgreSqlStan*
+
