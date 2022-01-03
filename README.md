@@ -2,7 +2,7 @@
 
 # 👋 Hi
 
-💻 I'm a longtime Mac user and command line aficiando 
+💻 I'm a longtime Mac user and command line aficiando. (macOS is Unix.)
 
 😮 I started programming with an Apple ][e in the early 1980s.
 
